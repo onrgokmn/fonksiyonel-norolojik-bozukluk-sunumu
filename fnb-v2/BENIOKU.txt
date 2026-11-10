@@ -1,0 +1,6 @@
+Fonksiyonel Nörolojik Bozukluk sunumu (50 slayt, yaklaşık 69 dk)
+
+Açmak için: sunum.html (klasördeki dosyalar birlikte durmalı; index.html yazı tiplerini sağlar).
+Konuşmacı notları: S tuşu. Slayt menüsü ve kaynaklar: G. Tam ekran: F.
+Videolar çevrimiçi oynar. Dosyayı çift tıklayarak açarsanız notlar ve yazı tipleri yüklenmeyebilir;
+GitHub Pages ya da yerel sunucu (python3 -m http.server) kullanın.
